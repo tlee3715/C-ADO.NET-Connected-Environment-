@@ -1,0 +1,8 @@
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG-254\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.SchoolData.Interfaces\bin\Debug\CPRG254.SchoolData.Interfaces.dll
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG-254\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.SchoolData.Interfaces\bin\Debug\CPRG254.SchoolData.Interfaces.pdb
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG-254\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.SchoolData.Interfaces\obj\Debug\CPRG254.SchoolData.Interfaces.dll
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG-254\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.SchoolData.Interfaces\obj\Debug\CPRG254.SchoolData.Interfaces.pdb
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.SchoolData.Interfaces\bin\Debug\CPRG254.SchoolData.Interfaces.dll
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.SchoolData.Interfaces\bin\Debug\CPRG254.SchoolData.Interfaces.pdb
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.SchoolData.Interfaces\obj\Debug\CPRG254.SchoolData.Interfaces.dll
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.SchoolData.Interfaces\obj\Debug\CPRG254.SchoolData.Interfaces.pdb

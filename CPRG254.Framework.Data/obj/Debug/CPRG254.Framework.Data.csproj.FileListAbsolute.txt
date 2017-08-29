@@ -1,0 +1,10 @@
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG-254\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.Framework.Data\bin\Debug\CPRG254.Framework.Data.dll
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG-254\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.Framework.Data\bin\Debug\CPRG254.Framework.Data.pdb
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG-254\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.Framework.Data\obj\Debug\CPRG254.Framework.Data.dll
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG-254\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.Framework.Data\obj\Debug\CPRG254.Framework.Data.pdb
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.Framework.Data\bin\Debug\CPRG254.Framework.Data.dll
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.Framework.Data\bin\Debug\CPRG254.Framework.Data.pdb
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.Framework.Data\obj\Debug\CPRG254.Framework.Data.dll
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.Framework.Data\obj\Debug\CPRG254.Framework.Data.pdb
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.Framework.Data\obj\Debug\CPRG254.Framework.Data.csprojResolveAssemblyReference.cache
+C:\Users\letoa\Desktop\School\.NET certificate\CPRG-254\CPRG254.FinalAssignment.Toan_Le\CPRG254.FinalPrj.Enrollment\CPRG254.Framework.Data\obj\Debug\CPRG254.Framework.Data.csprojResolveAssemblyReference.cache
